@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\bin\Debug\netcoreapp3.1\P129HomeWork.exe
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\bin\Debug\netcoreapp3.1\P129HomeWork.deps.json
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\bin\Debug\netcoreapp3.1\P129HomeWork.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\bin\Debug\netcoreapp3.1\P129HomeWork.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\bin\Debug\netcoreapp3.1\P129HomeWork.dll
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\bin\Debug\netcoreapp3.1\P129HomeWork.pdb
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.dll
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.pdb
+C:\Users\memme\Desktop\P129\Task\P129HomeWork\obj\Debug\netcoreapp3.1\P129HomeWork.genruntimeconfig.cache

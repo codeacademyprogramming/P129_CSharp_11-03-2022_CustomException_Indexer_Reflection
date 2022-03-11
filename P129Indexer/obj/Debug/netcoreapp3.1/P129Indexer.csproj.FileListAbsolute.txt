@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129Indexer\bin\Debug\netcoreapp3.1\P129Indexer.exe
+C:\Users\memme\Desktop\P129\Task\P129Indexer\bin\Debug\netcoreapp3.1\P129Indexer.deps.json
+C:\Users\memme\Desktop\P129\Task\P129Indexer\bin\Debug\netcoreapp3.1\P129Indexer.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129Indexer\bin\Debug\netcoreapp3.1\P129Indexer.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129Indexer\bin\Debug\netcoreapp3.1\P129Indexer.dll
+C:\Users\memme\Desktop\P129\Task\P129Indexer\bin\Debug\netcoreapp3.1\P129Indexer.pdb
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.dll
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.pdb
+C:\Users\memme\Desktop\P129\Task\P129Indexer\obj\Debug\netcoreapp3.1\P129Indexer.genruntimeconfig.cache

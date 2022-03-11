@@ -1,0 +1,9 @@
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\bin\Debug\netcoreapp3.1\P129DemoLibrary.deps.json
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\bin\Debug\netcoreapp3.1\P129DemoLibrary.dll
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\bin\Debug\netcoreapp3.1\P129DemoLibrary.pdb
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\obj\Debug\netcoreapp3.1\P129DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\obj\Debug\netcoreapp3.1\P129DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\obj\Debug\netcoreapp3.1\P129DemoLibrary.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\obj\Debug\netcoreapp3.1\P129DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\obj\Debug\netcoreapp3.1\P129DemoLibrary.dll
+C:\Users\memme\Desktop\P129\Task\P129DemoLibrary\obj\Debug\netcoreapp3.1\P129DemoLibrary.pdb

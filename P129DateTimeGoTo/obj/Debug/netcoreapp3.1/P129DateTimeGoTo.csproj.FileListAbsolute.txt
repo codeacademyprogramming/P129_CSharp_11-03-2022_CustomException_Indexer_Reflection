@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\bin\Debug\netcoreapp3.1\P129DateTimeGoTo.exe
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\bin\Debug\netcoreapp3.1\P129DateTimeGoTo.deps.json
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\bin\Debug\netcoreapp3.1\P129DateTimeGoTo.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\bin\Debug\netcoreapp3.1\P129DateTimeGoTo.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\bin\Debug\netcoreapp3.1\P129DateTimeGoTo.dll
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\bin\Debug\netcoreapp3.1\P129DateTimeGoTo.pdb
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.dll
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.pdb
+C:\Users\memme\Desktop\P129\Task\P129DateTimeGoTo\obj\Debug\netcoreapp3.1\P129DateTimeGoTo.genruntimeconfig.cache

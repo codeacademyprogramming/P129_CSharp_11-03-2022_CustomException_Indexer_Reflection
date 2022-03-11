@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\P129CustomException\bin\Debug\netcoreapp3.1\P129CustomException.exe
+C:\Users\memme\Desktop\P129\Task\P129CustomException\bin\Debug\netcoreapp3.1\P129CustomException.deps.json
+C:\Users\memme\Desktop\P129\Task\P129CustomException\bin\Debug\netcoreapp3.1\P129CustomException.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\P129CustomException\bin\Debug\netcoreapp3.1\P129CustomException.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\P129CustomException\bin\Debug\netcoreapp3.1\P129CustomException.dll
+C:\Users\memme\Desktop\P129\Task\P129CustomException\bin\Debug\netcoreapp3.1\P129CustomException.pdb
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.dll
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.pdb
+C:\Users\memme\Desktop\P129\Task\P129CustomException\obj\Debug\netcoreapp3.1\P129CustomException.genruntimeconfig.cache
